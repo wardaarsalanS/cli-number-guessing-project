@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  },
+  "name": "cli-number-guessing-project",
+  "version": "1.0.0",
+  "description": "tis is my cli number guessing project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "indexmain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
